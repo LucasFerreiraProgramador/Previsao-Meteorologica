@@ -27,7 +27,7 @@ Este projeto é uma aplicação estática pronta para hospedagem em qualquer ser
 1. Extraia o arquivo ZIP
 2. Faça upload de todos os arquivos para seu servidor web
 3. Certifique-se de que `index.html` é servido como página padrão
-4. Acesse a aplicação através do seu domínio
+4. Acesse a aplicação através do seu domínio   
 
 ## 📝 Informações
 
